@@ -2,6 +2,14 @@
 🔭 I’m currently working on Hill climb type game<br>👯 I’m looking to collaborate with Game Dev Studios<br>🤝 I’m looking for help with c++ programming<br>🌱 I’m currently learning to contribute in open source <br>⚡ Fun fact I love to go to Gym and Eat tasty Food 
 
 
+
+
+
+###
+
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Gaur95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyush-g-62b166219/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pratyushgaur95@gmail.com) 
 
@@ -11,6 +19,20 @@
 ![](https://github-readme-stats.vercel.app/api?username=gaur-95&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gaur-95&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-95&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
