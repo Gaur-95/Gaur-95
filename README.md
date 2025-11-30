@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on Hill climb type game<br>👯 I’m looking to collaborate with Game Dev Studios<br>🤝 I’m looking for help with c++ programming<br>🌱 I’m currently learning to contribute in open source <br>⚡ Fun fact I love to go to Gym and Eat tasty Food 
+# 💫 I'm Pratyush Gaur
+🏍️ I’m currently working on a Hill climb type game<br> 🤝 I’m looking to collaborate with Game Dev Studios<br>🌱 I’m currently learning to contribute in open source <br>⚡ Gym-Freak
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
@@ -24,11 +28,7 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 ### ✍️ Random Dev Quote
