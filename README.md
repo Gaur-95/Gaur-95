@@ -1,7 +1,7 @@
 # 💫 I'm Pratyush Gaur
-🏍️ I’m currently working on a Hill climb type game<br> 🤝 I’m looking to collaborate with Game Dev Studios<br>🌱 I’m currently learning to contribute in open source <br>⚡ Gym-Freak
+🏍️ I’m currently working on a RPG Game in UE5<br> 🤝 I’m looking to collaborate with Game Dev Studios<br>🌱 I’m currently learning to contribute in open source <br>⚡ Gym-Freak
 
-
+Do check out my [Portfolio](https://gamedev-portfolio-v1.onrender.com/)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaur-95/gaur-95/output/pacman-contribution-graph.svg">
